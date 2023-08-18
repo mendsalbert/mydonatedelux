@@ -18,7 +18,7 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENT -->
+<!-- TABLE OF CONTEN -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
