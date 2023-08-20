@@ -18,7 +18,7 @@ contract Donation {
   mapping(uint256 => User) public users;
   mapping(address => IsRegistered) public registeredUsers;
 
-  // address payable companyAddress;
+  // address payable companyAddres;
   address payable companyAddress;
   uint256 public donersCount;
   uint256 public donationCount;
