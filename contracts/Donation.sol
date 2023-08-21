@@ -170,7 +170,7 @@ contract Donation {
     registeredUsers[msg.sender].status = true;
     registeredUsers[msg.sender].userType = donation_.user.userType;
     registeredUsers[msg.sender].id = usersCount;
-    // } else {
+    // } else 
     // donation.user.id = users[id_].id;
     // console.log(id_);
     // console.log('user country', users[id_].country);
