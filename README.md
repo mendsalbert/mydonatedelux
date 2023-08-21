@@ -4,7 +4,7 @@
     <img src="public/images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">myDonate</h3>
+  <h3 align="center">Globesave</h3>
 
   <p align="center">
    A web3 transparent donation application 
@@ -84,7 +84,7 @@ To run this project locally, follow these steps.
 1. Clone the project locally, change into the directory, and install the dependencies:
 
 ```sh
-git clone https://github.com/mendsalbert/mydonateiom
+git clone https://github.com/mendsalbert/mydonatedelux
 
 cd mydonteiom
 
