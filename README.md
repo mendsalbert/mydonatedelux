@@ -157,7 +157,7 @@ If using Infura, update **.infuraid** with your [Infura](https://infura.io/) pro
 
 <!-- USAGE EXAMPLES -->
 
-<!-- ROADMAP -->
+<!-- ROADMA -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
